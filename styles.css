@@ -162,7 +162,7 @@ body {
 
 @media screen and (max-width: 768px) {
     .container {
-        height: 70vh;
+        height: 90vh;
         display: block;
         background-image: none;
     }
